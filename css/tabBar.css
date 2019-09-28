@@ -1,0 +1,19 @@
+* { touch-action: none; }
+#moreIcon {
+	font-size: 50px;
+	font-weight: 400;
+	color: #DD524D;
+	/* top: -20px; */
+}
+
+.mui-tab-item {
+	border-top: #DD524D solid 1px;
+}
+
+.mui-active {
+	color: #DD524D !important;
+}
+
+.mui-bar-tab {
+	background: #fff;
+}
